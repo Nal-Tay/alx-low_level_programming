@@ -1,8 +1,7 @@
-#!/bin/bash
 #include <stdio.h>
 
 /**
- *  * Print using put 
+ *  * Print c using put 
  *
  *   * Must Return = 0
  *
