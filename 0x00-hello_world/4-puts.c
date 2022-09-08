@@ -2,10 +2,11 @@
 
 /**
  *  * Print c using put 
+ * main-main block
+ * Return : 0
  *
- *   * Must Return = 0
- *
- *    */
+ *   
+ */
 
 int main(void)
 
