@@ -5,7 +5,7 @@
  * @n: The number of the sign.
  *
  * Return: 1 if the number > 0
- * 	0 if the number = 0
+ * :wq0 if the number = 0
  *	 -1 if the number < 0
  */
 
