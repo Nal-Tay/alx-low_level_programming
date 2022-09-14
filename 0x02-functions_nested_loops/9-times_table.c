@@ -21,12 +21,12 @@ void times_table(void)
 				if (j != 0)
 					_putchar(' ');
 			_putchar(n + '0');
-	
+
 				if (j == 9)
 					continue;
 				_putchar(',');
 				_putchar(' ');
-			}	
+			}
 			else	
 			{
 				_putchar((n / 10) + '0');
